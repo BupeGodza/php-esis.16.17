@@ -1,3 +1,6 @@
+<?php 
+     
+     include('Annonces/Header.php'); ?>
 <strong style="color:red">BOnjour le monde</strong>
 <table border="2">
 	<tr>
@@ -188,7 +191,7 @@
 	
 	$a = ($a > 10) ? ($a * 2) : ($a * 3);
 	
-	
+	include('Annonces/Footer.php');
 	
 	
 	

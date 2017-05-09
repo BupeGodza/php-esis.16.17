@@ -1,4 +1,8 @@
-﻿<!doctype html>
+﻿<?php 
+     
+     include('Annonces/Header.php');
+     ?>
+<!doctype html>
 <html>
 	<head>
 		<title>Traitement</title>
@@ -18,3 +22,7 @@
 		</p>
 	</body>
 </html>
+<?php 
+     
+     include('Annonces/Footer.php');
+     ?>

@@ -1,4 +1,8 @@
-﻿<!doctype html>
+﻿<?php 
+     
+     include('Annonces/Header.php'); ?>
+
+<!doctype html>
 <html>
 	<head>
 		<title>Bonjour le monde</title>
@@ -22,4 +26,11 @@
 			<input type="submit" value="Send" />
 		</form>
 	</body>
+	<?php 
+     
+   <?php 
+     
+     include('Annonces/Footer.php');
+     ?>
+
 </html>
